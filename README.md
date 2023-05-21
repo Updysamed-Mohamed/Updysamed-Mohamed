@@ -9,7 +9,12 @@ Updysamed-Mohamed/Updysamed-Mohamed is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-🔭 I’m currently working on my Skills<br>👯 I’m looking to collaborate on my Self<br>🤝 I’m looking for help with my code <br>🌱 I’m currently learning flutter <br>💬 Ask me about<br>⚡ Fun fact
+🔭 I'm currently working on my Skills<br>
+👯 I'm looking to collaborate on my Self<br>
+🤝 I'm looking for help with my code<br>
+🌱 I'm currently learning Flutter<br>
+💬 Ask me about<br>
+⚡ Fun fact<br>
 
 
 ## 🌐 Socials:
