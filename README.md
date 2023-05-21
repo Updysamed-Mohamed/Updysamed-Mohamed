@@ -9,12 +9,12 @@ Updysamed-Mohamed/Updysamed-Mohamed is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-🔭 I'm currently working on my Skills<br>
-👯 I'm looking to collaborate on my Self<br>
-🤝 I'm looking for help with my code<br>
-🌱 I'm currently learning Flutter<br>
-💬 Ask me about<br>
-⚡ Fun fact<br>
+🔭 I'm currently honing my mobile app development skills.<br>
+👯 I'm seeking opportunities to collaborate with myself and enhance my expertise.<br>
+🤝 I'm open to receiving assistance with my code and exploring new techniques.<br>
+🌱 I'm currently immersing myself in learning Flutter, a cross-platform mobile app development framework.<br>
+💬 Feel free to ask me anything related to mobile app development or Flutter.<br>
+⚡ Fun fact: I enjoy discovering new features and functionalities of different mobile platforms, and I'm always excited to experiment with the latest trends in app development.
 
 
 ## 🌐 Socials:
